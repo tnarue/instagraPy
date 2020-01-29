@@ -1,0 +1,2 @@
+[55493:775:0919/150554.956752:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[55493:775:0919/150554.956932:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
